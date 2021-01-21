@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website-portfolio-down-green-red/http/lbesson.bitbucket.org.svg)](https://jrobi133.github.io/PortfolioJohnRobinson/index.html)
 ## Description:
     
-This application is a workout tracker to help keep track of workouts. You can see this site deployted by clicking here: https://johnsworkouttracker.herokuapp.com
+This application is a workout tracker to help keep track of workouts. You can see this site deployed by clicking here: https://johnsworkouttracker.herokuapp.com
     
     
 ## Table of Contents:
